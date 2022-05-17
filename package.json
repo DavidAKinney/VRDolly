@@ -1,0 +1,10 @@
+{
+  "name": "edu.umn.cs.ivlab.vrdolly",
+  "displayName": "IVLab VRDolly",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "A camera flythrough editor created by David Kinney for use by the IVLab team.",
+  "dependencies": {
+
+  }
+}
